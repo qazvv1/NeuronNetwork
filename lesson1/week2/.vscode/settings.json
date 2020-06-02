@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Users\\Administrator\\AppData\\Local\\Programs\\Python\\Python37\\python.exe",
+    // 设置Python的代码格式化
+    "python.formatting.provider": "yapf",
+    // 设置Python的代码检查
+    "python.linting.flake8Path": "pycodestyle",
+}
